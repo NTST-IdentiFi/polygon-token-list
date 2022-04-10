@@ -34,7 +34,7 @@
   {
     "chainId": 80001,
     "name": "Michael Whittle",
-    "symbol": "WHITLE",
+    "symbol": "WHITTLE",
     "decimals": 18,
     "address": "0x0000000000000000000000000000000000001010",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
