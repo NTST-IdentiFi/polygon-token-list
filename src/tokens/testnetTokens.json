@@ -33,6 +33,22 @@
   },
   {
     "chainId": 80001,
+    "name": "Michael Whittle",
+    "symbol": "WHITLE",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000000000001010",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+    "tags": [
+      "erc20",
+      "plasma",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
+    }
+  },
+  {
+    "chainId": 80001,
     "name": "Dummy ERC20",
     "symbol": "DERC20",
     "decimals": 18,
